@@ -1,5 +1,3 @@
-add_nodeint_end.c
-
 #include "lists.h"
 
 /**
